@@ -1,0 +1,23 @@
+[data]
+Nombre =  Victim
+Dueño = Jean_Block  
+Contraseña = 0
+Dinero = 0
+Precio_Entrada = 0
+Precio = 5000000
+VirtualWorld = 1044
+Interior = 5
+Tipo = 1
+Icono = 45
+Comprado = false
+Cerrado = false
+Entrada_x = 1111.969482
+Entrada_y = -1370.030151
+Entrada_z = 13.984375
+Salida_x = 226.293991
+Salida_y = -7.431529
+Salida_z = 1002.210937
+Transferido = Jean_Block
+Entrega_x = 1085.483764
+Entrega_y = -1364.680908
+Entrega_z = 13.781250
