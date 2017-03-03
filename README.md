@@ -83,6 +83,9 @@ Todos los sábados a las 6 de la tarde, llega un buque al puerto de LSEM cargado
 ![img](https://i.gyazo.com/631ae46bb7a64942679a1df08b36f282.png)
 ![img](https://i.gyazo.com/80945ee1a1ee179e8c0ecff9c628ba5c.png)
 
+# Plantas de marihuana
+Cada persona puede comprar una semilla de marihuana y plantarla en su casa. Debe estar a menos de 40m de la entrada a la casa. Para eso, hay que ir a una granja donde está **Truth**, un bot que te pide que coseches su granja y un poco de dinero para darte una semilla. Luego puedes usar **/plantar marihuana** con esa semilla.
+
 # Trabajo de minero
 En la mina de Huntle Charry se crean minerales en posiciones aleatorias para picar. Se pueden re-generar con **/recargarminerales**. Hay pocas posibilidades de generar diamante, otras pocas de generar oro, y varias de generar carbón y hierro. Para picarlo, necesitas el trabajo de minero (puedes dartelo con **/editarcuenta [Nombre_Apellido] Trabajo 8**)
 y usar **/picar**. Después apretar click hasta llenar la barra.
