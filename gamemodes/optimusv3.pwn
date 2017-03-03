@@ -1,14 +1,11 @@
 /*
 *
 *	Script:			Optimus RolePlay
-*   Archivo: 		src/main.cpp
-*	Descripción:	Cabeza
-*	Versión:		4.0
+*	Versión:		3.0
 *	Autor:			Spell
 *
 */
 
-// SAMP
 #include <a_samp>
 #include <nativefuncs>
 #include <fixes>
