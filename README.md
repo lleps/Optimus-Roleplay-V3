@@ -1,13 +1,10 @@
-# Descarga directa
-https://github.com/lleps/Optimus-Roleplay-V3/archive/master.zip
-
 # Cómo ejecutar
-* Descargar XAMPP, para tener MySQL. link: https://www.apachefriends.org/es/download.html
-* Iniciar XAMPP (abrirlo, poner "start" en el servicio Apache y en el servicio MySQL)
-* Abrir el navegador y ir a localhost/phpmyadmin. Ir a "bases de datos" y crear una de nombre, ej, dboptimus
-* Entrar a la carpeta scriptfiles/database.ini y editar los datos en caso de ser necesario. En mi 
-caso sería "127.0.0.1|root|dboptimus|"
-* Abrir samp-server.exe.
+* Descargar el [server](https://github.com/lleps/Optimus-Roleplay-V3/archive/master.zip).
+* Descargar [XAMPP](https://www.apachefriends.org/es/download.html) para tener base de datos MySQL.
+* Iniciar **XAMPP** y poner **start** en el servicio Apache y en el servicio MySQL.
+* Abrir el navegador e ir a **https://localhost/phpmyadmin**. Ir a **bases de datos** y crear una de nombre, ej, **dboptimus**.
+* Entrar a la carpeta *scriptfiles/database.ini* y editar los datos en caso de ser necesario. En mi caso sería ``127.0.0.1|root|dboptimus|``
+* Ejecutar **samp-server.exe**.
 
 Si no compila o no ejecuta, descargar e instalar:
 https://www.microsoft.com/en-us/download/details.aspx?id=5555
