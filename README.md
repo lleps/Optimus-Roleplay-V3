@@ -13,6 +13,7 @@ Comando /seradmin te pone admin dueño.
 
 # Sistema de PC en los negocios
 Sirve para hacerle pedido de stock a los camioneros.
+
 ![img](https://i.gyazo.com/dd636721f53eef890bb77c4fec65224a.gif)
 
 # Celular
@@ -22,7 +23,6 @@ Sirve para hacerle pedido de stock a los camioneros.
 ![img](https://i.gyazo.com/55584a4018b077f3b76b9d41156290e1.png)
 
 # Fábrica de armas
-
 ## Localización
 ![img](https://i.gyazo.com/31dd51fcb0ebd992c86f7a73054720aa.png)
 
@@ -31,7 +31,7 @@ Sirve para hacerle pedido de stock a los camioneros.
 ![img](https://i.gyazo.com/03de090b6754f10fbfec63d4140c984d.png)
 
 ## Para cambiar el propietario del laboratorio
-Para que la conquiste una familia, se usa **/conquistar** en la puerta. Para cambiar qué familia la conquista manualmente, se edita en scriptfiles/Laboratorios/BlackAsociation.dat (editas el archivo con notepad, y le pones **[id de familia]=[1 cerrado/2 abierto]**. Por ejemplo, quiero que el laboratorio sea de la familia 5 y esté abierto, le pongo **5=0** en el archivo .dat y lo guardo. Reiniciar el server para que se apliquen los cambios.
+Para que la conquiste una familia, se usa **/conquistar** en la puerta. Para cambiar qué familia la conquista manualmente, se edita en *scriptfiles/Laboratorios/BlackAsociation.dat* (editas el archivo con notepad, y le pones **[id de familia]=[1 cerrado/2 abierto]**. Por ejemplo, quiero que el laboratorio sea de la familia 5 y esté abierto, le pongo **5=0** en el archivo .dat y lo guardo. Reiniciar el server para que se apliquen los cambios.
 
 # Fábrica de drogas
 
@@ -43,7 +43,7 @@ Para que la conquiste una familia, se usa **/conquistar** en la puerta. Para cam
 
 ## Cómo crear plantas de coca
 
-Usar /planta_crear.
+Usar **/planta_crear**.
 
 ![img](https://i.gyazo.com/af7b33530e2cb16f60c32748bb4c92c3.png)
 
@@ -68,13 +68,7 @@ El comando es **/faccion**. Necesitas ser lider.
 **/bancuenta** sirve para banear jugadores por dias, horas o meses. Tanto conectados como desconectados.
 
 # Sistema de mapas dinamico
-En la carpeta scriptfiles/maps se pueden meter mapas en formato CreateDynamicObject o CreateObject y cargarlos o descargarlos dinámicamente. Por ejemplo, supongamos el archivo **maplspd.txt** con:
-
-``CreateObject(...);
-
-CreateObject(...);``
-
-Podés meter el archivo en la carpeta *scriptfiles/maps* y cargarlo con **/mapcargar maplspd.txt**. Podés descargarlo
+En la carpeta scriptfiles/maps se pueden meter mapas en formato CreateDynamicObject o CreateObject y cargarlos o descargarlos dinámicamente. Por ejemplo, supongamos el archivo **maplspd.txt** con ``CreateObject(...);`` podés meter el archivo en la carpeta *scriptfiles/maps* y cargarlo con **/mapcargar maplspd.txt**. Podés descargarlo
 con **/mapdescargar**. Y podes ver la lista de mapas cargados con **/maplist**.
 
 # Barco de importaciones de armas.
@@ -89,5 +83,4 @@ En la mina de Huntle Charry se crean minerales en posiciones aleatorias para pic
 y usar **/picar**. Después apretar click hasta llenar la barra.
 
 ![img](https://i.gyazo.com/824f1d0be1a1a2af4f7566f174735160.png)
-
 ![img](https://i.gyazo.com/2e10dc0e0d8edbbac8bbedcd2de20139.png)
