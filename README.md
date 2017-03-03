@@ -2,14 +2,14 @@
 * Descargar el [server](https://github.com/lleps/Optimus-Roleplay-V3/archive/master.zip).
 * Descargar [XAMPP](https://www.apachefriends.org/es/download.html) para tener base de datos MySQL.
 * Iniciar **XAMPP** y poner **start** en el servicio Apache y en el servicio MySQL.
-* Abrir el navegador e ir a **https://localhost/phpmyadmin**. Ir a **bases de datos** y crear una de nombre, ej, **dboptimus**.
+* Abrir el navegador e ir a http://localhost/phpmyadmin. Ir a **bases de datos** y crear una de nombre, ej, **dboptimus**.
 * Entrar a la carpeta *scriptfiles/database.ini* y editar los datos en caso de ser necesario. En mi caso sería ``127.0.0.1|root|dboptimus|``
 * Ejecutar **samp-server.exe**.
 
 Si no compila o no ejecuta, descargar e instalar [MS10 runtime](https://www.microsoft.com/en-us/download/details.aspx?id=5555).
 
 # Cómo importar la base de datos real
-Hay un archivo **optimusv3.sql** en el directorio principal que tiene todos los usuarios y vehículos de Optimus antes de cerrar. Le eliminé los correos y las IP por privacidad (todavía tienen las claves ahi. Estan encriptadas).
+Hay un archivo **optimusv3.sql** en el directorio principal que tiene todos los usuarios y vehículos de Optimus antes de cerrar. Les eliminé los correos y las IPs de la gente por privacidad. Las claves estan encriptadas.
 Para importarla, abrir el phpmyadmin, seleccionar la base de datos, ir a "Importar" en la columna de arriba y seleccionar el archivo .sql. 
 Las casas, negocios y todos los otros datos están en scriptfiles. Iguales que como estaban en el server antes de cerrar.
 
