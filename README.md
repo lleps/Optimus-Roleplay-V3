@@ -86,6 +86,7 @@ Todos los sábados a las 6 de la tarde, llega un buque al puerto de LSEM cargado
 # Trabajo de minero
 En la mina de Huntle Charry se crean minerales en posiciones aleatorias para picar. Se pueden re-generar con **/recargarminerales**. Hay pocas posibilidades de generar diamante, otras pocas de generar oro, y varias de generar carbón y hierro. Para picarlo, necesitas el trabajo de minero (puedes dartelo con **/editarcuenta [Nombre_Apellido] Trabajo 8**)
 y usar **/picar**. Después apretar click hasta llenar la barra.
+Los minerales sirven para las fábricas. El carbón es el combustible para las máquinas (droga y armas). El hierro sirve para construir tanto cargadores como armas.
 
 ![img](https://i.gyazo.com/824f1d0be1a1a2af4f7566f174735160.png)
 ![img](https://i.gyazo.com/2e10dc0e0d8edbbac8bbedcd2de20139.png)
