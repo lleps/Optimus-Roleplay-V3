@@ -14,7 +14,7 @@ Para importarla, abrir el phpmyadmin, seleccionar la base de datos, ir a "Import
 Las casas, negocios y todos los otros datos están en scriptfiles. Iguales que como estaban en el server antes de cerrar.
 
 # Cómo hacerse admin
-Comando /seradmin te pone admin dueño.
+Comando **/seradmin** te pone admin dueño.
 
 # Sistema de PC en los negocios
 Sirve para hacerle pedido de stock a los camioneros.
